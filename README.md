@@ -1,7 +1,7 @@
 
 # The magic of backend independent UI testing in Android
 
-> Medium article: https://medium.com/p/5c20ad6d2bf2
+> Medium article: https://link.medium.com/p5159tsfkU
 
 Have you ever asked yourself how backend independent UI testing in Android works? Yes? Then please continue reading… ;)
 
